@@ -8,6 +8,7 @@ allprojects {
 		}
 	}
   
+  
   dependencies {
 	        implementation 'com.github.gaoguanqi:XLoader:v1.0.0'
 	}
