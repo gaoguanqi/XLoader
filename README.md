@@ -1,5 +1,5 @@
 # XLoader
-imageloader
+# imageloader
 
 allprojects {
 		repositories {
