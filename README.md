@@ -1,6 +1,7 @@
 # XLoader
 # imageloader
 
+```
 allprojects {
 		repositories {
 			...
@@ -12,6 +13,7 @@ allprojects {
   dependencies {
 	        implementation 'com.github.gaoguanqi:XLoader:v1.0.0'
 	}
+```
 	
 	
  # 如果support依赖 冲突 
